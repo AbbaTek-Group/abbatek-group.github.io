@@ -17,23 +17,18 @@ Ivo is a hydrologist with experience in earth data analytics and machine learnin
 Sam is a business development and communications specialist. While completing a master’s degree at the University of Winnipeg, Sam began literature for environmental and medical science journals. A resume in science writing led to him founding 204 Communications to specialize in environmental reporting and sustainability initiatives. Sam is a co-founder of the AbbaTek Group and at the same time holds the role of the Communications & Outreach Coordinator at the University of Manitoba's Centre for Earth Observation Science.
 
 
-#* ![Abdul.png](/figs/Abdul.png)
+* ![Abdul.png](/figs/Abdul.png)
 Abdul-Latif Alhassan is a 2019 Mandela Washington Fellow (MWF) and African Leaders of Tomorrow (ALT) Scholar, Project Management Consultant, Co-Founder/Director of the Civil Society & Institutional Foundation (CSIF) – Ghana, an NGO in Tamale. He is enthusiastic about entrepreneurship and challenging himself to solve some of the most difficult adaptive/wicked problems in society. Abdul brings on board to Team AbbaTek expertise in Policy, Leadership, Project Management, and R&D.
 
 # What We Do
 
-Our goal is to teach researchers the fundamental skills to improve and automate their workflows which will increase their productivity, the reproducibility of their research and eventually the quality of their work.
-We do this by teaching two day workshops, where students learn how to automate tasks using the Unix shell, how to track and share work using version control, and how to write software in Python, R, or MATLAB that is readable, reusable, and reliable.
+Regardless of the type of business you run, you cannot operate to your fullest potential without exploring the benefits of artificial and human intelligence. Our augmented decision support business intelligence platform can take your business to that next level. We believe every business has an impact to the community and environment in which it operates. What is yours?    
 
-The teaching material of the Carpentries projects (Software Carpentries, Data Carpentry, Library Carpentry) are being developed by the Carpentries communities and freely available under an open access license and our instructors and helpers are volunteers.
-
-We encourage interested workshop participants to support future workshops as helpers and/or becoming Carpentries Instructors themselves. 
-
-We are dedicated to the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to providing a welcoming, inclusive and supportive environment for all people.
+As one of our priority focus areas, AbbaTek is committed in developing tools to help understand complex water resources issues such as the case of emerging contaminants in freshwater like microplastics.  Unfortunately, budget cycles, limited human resources, and key stake holders paasively partake in the supply chain resulting in a sustainability gap for such tools. Early this year, AbbaTek joined the Aquahacking Lake Winnipeg challenge competition designed for pre-and-early-stage startups to address environmental problems related to freshwater. Participants are provided with some financial and mentorship support to help guide their solution development. AbbaTek is among the top five teams that qualified to the finals of this competition slated to take place on October 17th , 2020 and will be presenting our solution to the problem of microplastics in freshwater.
 
 
-# Workshops
-## Upcoming Workshops
+# Events
+## Upcoming Events
 
 This series of 6 workshops is supported by [Graduate Students' Union at MUN](https://www.gsumun.ca/):
 * [March 3,10,17,24 2019 (four Tuesday afternoons)](https://mun-swc-hub.github.io/2020-03-03-mun/): Unix Shell, Version Control & Python
