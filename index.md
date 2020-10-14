@@ -5,7 +5,7 @@ title: "AbbaTek Group"
 [<small>Jump to</small> Upcoming Events](#upcoming-events)
 
 # Who We Are
-We are a team of _Carpentries_ Instructors and Helpers at Memorial University of Newfoundland (MUN) who are organizing and offering _Carpentries_ workshops at MUN.
+We are a group of passionate and diverse set of individuals committed to achieving global sustainability and a healthy business environment where technological development, insttitutional change, and social impact live in harmony.
 
 ![infographic](/figs/infographic-sc.jpg)
 
