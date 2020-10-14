@@ -31,7 +31,7 @@ As one of our priority focus areas, AbbaTek is committed in developing tools to 
 ## Upcoming Events
 
 This series of hackathons supported by [AquaHacking](https://aquahacking.com/en/):
-![AquaHacking2020Finalists.jpg](/figs/AquaHacking2020Finalists.jpg): AquaHacking Lake Winnipeg
+![AquaHacking2020Finalists.jpeg](/figs/AquaHacking2020Finalists.jpeg): AquaHacking Lake Winnipeg
 
 
 We will announce future events here once their dates and locations
