@@ -68,6 +68,8 @@ have been confirmed.
 -->
 
 # Partners
+* [Memorial University](https://www.mun.ca/socialenterprise/) the CSE seeks to enhance the quality of the human experience via social enterprise and social innovation
+* [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers world wide
 * [ACENET](https://www.ace-net.ca/) is providing cyber infrastructure for computational requirements in Atlantic Canada
 * [Compute Canada](https://computecanada.ca) is providing cyber infrastructure for high performance computing 
 * [Delta Analytics](http://www.deltanalytics.org) is providing data analytics support for data-driven social good solutions.
