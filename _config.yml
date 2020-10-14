@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 
-title: "AbbaTek Group"
+title:  ![AbbaLogo.png](/figs/AbbaLogo.png) "AbbaTek Group"
 description: "At AbbaTek, we are driven by Community Science initiatives whose main goal is to create that perfect harmony between science and communities"
 
 repository: 'abbatek-group.github.io'
