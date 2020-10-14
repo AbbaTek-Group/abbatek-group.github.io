@@ -7,7 +7,9 @@ title: "AbbaTek Group"
 # Who We Are
 We are a group of passionate and diverse set of individuals committed to achieving global sustainability and a healthy business environment where technological development, insttitutional change, and social impact live in harmony.
 
-![infographic](/figs/infographic-sc.jpg)
+* Ivo is a hydrologist with experience in earth data analytics and machine learning. Projects under his belt have sought to provide information on the interaction between surface controls and spatio-temporal variability of sub-surface hydrologic processes. In his work, he uses a combination of experimental, theoretical, numerical, and computational methods to address these hydrologic processes. In addition to his academic side, Ivo uses his acquired skills as a seasoned entrepreneur having participated in a number of hackathons solving problems that range from fintech to public health.![Ivo_abbatek_profile_pic.jpg](/figs/Ivo_abbatek_profile_pic.jpg)
+
+#![infographic](/figs/infographic-sc.jpg)
 
 # What We Do
 
