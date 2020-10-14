@@ -9,7 +9,7 @@ We are a group of passionate and diverse set of individuals committed to achievi
 
 
 
-* ![Ivo_abbatek_profile_pic.jpg](/figs/Ivo_abbatek_profile_pic.jpg)
+* ![Ivo.jpg](/figs/Ivo.jpg)
 Ivo is a hydrologist with experience in earth data analytics and machine learning. Projects under his belt have sought to provide information on the interaction between surface controls and spatio-temporal variability of sub-surface hydrologic processes. In his work, he uses a combination of experimental, theoretical, numerical, and computational methods to address these hydrologic processes. In addition to his academic side, Ivo uses his acquired skills as a seasoned entrepreneur having participated in a number of hackathons solving problems that range from fintech to public health.
 
 
@@ -17,7 +17,8 @@ Ivo is a hydrologist with experience in earth data analytics and machine learnin
 Sam is a business development and communications specialist. While completing a master’s degree at the University of Winnipeg, Sam began literature for environmental and medical science journals. A resume in science writing led to him founding 204 Communications to specialize in environmental reporting and sustainability initiatives. Sam is a co-founder of the AbbaTek Group and at the same time holds the role of the Communications & Outreach Coordinator at the University of Manitoba's Centre for Earth Observation Science.
 
 
-#* ![
+#* ![Abdul.png](/figs/Abdul.png)
+Abdul-Latif Alhassan is a 2019 Mandela Washington Fellow (MWF) and African Leaders of Tomorrow (ALT) Scholar, Project Management Consultant, Co-Founder/Director of the Civil Society & Institutional Foundation (CSIF) – Ghana, an NGO in Tamale. He is enthusiastic about entrepreneurship and challenging himself to solve some of the most difficult adaptive/wicked problems in society. Abdul brings on board to Team AbbaTek expertise in Policy, Leadership, Project Management, and R&D.
 
 # What We Do
 
