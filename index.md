@@ -9,16 +9,16 @@ We are a group of passionate and diverse set of individuals committed to achievi
 
 
 
-* ![Ivo.jpg](/figs/Ivo.jpg)
-Ivo is a hydrologist with experience in earth data analytics and machine learning. Projects under his belt have sought to provide information on the interaction between surface controls and spatio-temporal variability of sub-surface hydrologic processes. In his work, he uses a combination of experimental, theoretical, numerical, and computational methods to address these hydrologic processes. In addition to his academic side, Ivo uses his acquired skills as a seasoned entrepreneur having participated in a number of hackathons solving problems that range from fintech to public health.
+![Ivo.jpg](/figs/Ivo.jpg)
+* Ivo is a hydrologist with experience in earth data analytics and machine learning. Projects under his belt have sought to provide information on the interaction between surface controls and spatio-temporal variability of sub-surface hydrologic processes. In his work, he uses a combination of experimental, theoretical, numerical, and computational methods to address these hydrologic processes. In addition to his academic side, Ivo uses his acquired skills as a seasoned entrepreneur having participated in a number of hackathons solving problems that range from fintech to public health.
 
 
-* ![Sam.png](/figs/Sam.png)
-Sam is a business development and communications specialist. While completing a master’s degree at the University of Winnipeg, Sam began literature for environmental and medical science journals. A resume in science writing led to him founding 204 Communications to specialize in environmental reporting and sustainability initiatives. Sam is a co-founder of the AbbaTek Group and at the same time holds the role of the Communications & Outreach Coordinator at the University of Manitoba's Centre for Earth Observation Science.
+![Sam.png](/figs/Sam.png)
+* Sam is a business development and communications specialist. While completing a master’s degree at the University of Winnipeg, Sam began literature for environmental and medical science journals. A resume in science writing led to him founding 204 Communications to specialize in environmental reporting and sustainability initiatives. Sam is a co-founder of the AbbaTek Group and at the same time holds the role of the Communications & Outreach Coordinator at the University of Manitoba's Centre for Earth Observation Science.
 
 
-* ![Abdul.png](/figs/Abdul.png)
-Abdul-Latif Alhassan is a 2019 Mandela Washington Fellow (MWF) and African Leaders of Tomorrow (ALT) Scholar, Project Management Consultant, Co-Founder/Director of the Civil Society & Institutional Foundation (CSIF) – Ghana, an NGO in Tamale. He is enthusiastic about entrepreneurship and challenging himself to solve some of the most difficult adaptive/wicked problems in society. Abdul brings on board to Team AbbaTek expertise in Policy, Leadership, Project Management, and R&D.
+![Abdul.png](/figs/Abdul.png)
+* Abdul-Latif Alhassan is a 2019 Mandela Washington Fellow (MWF) and African Leaders of Tomorrow (ALT) Scholar, Project Management Consultant, Co-Founder/Director of the Civil Society & Institutional Foundation (CSIF) – Ghana, an NGO in Tamale. He is enthusiastic about entrepreneurship and challenging himself to solve some of the most difficult adaptive/wicked problems in society. Abdul brings on board to Team AbbaTek expertise in Policy, Leadership, Project Management, and R&D.
 
 # What We Do
 
@@ -37,32 +37,21 @@ This series of hackathons supported by [AquaHacking](https://aquahacking.com/en/
 We will announce future events here once their dates and locations
 have been confirmed.
 
-## Past Workshops
+## Past Events
 
-* [May 9-10 2019](https://mun-swc-hub.github.io/2019-05-09-mun/) Unix Shell, R & Version Control
-* [April 22-23 2019](https://mun-swc-hub.github.io/2019-04-22-mun/) Unix Shell, Python & Version Control
-* [March 30-31 2019](https://daniellequinn.github.io/2019-03-30-WISE1/) MUN Women in Science and Engineering Graduate Student Society (Technical Stream)
-* [March 30-31 2019](https://daniellequinn.github.io/2019-03-30-WISE2/) MUN Women in Science and Engineering Graduate Student Society (Analytical Stream)
-* [March 12-13 2018](https://mun-swc-hub.github.io/2018-03-12-mun/) Unix Shell, R & Version Control - In conjunction with the Science Atlantic Biology and Fisheries & Aquaculture Conference
-* [Dec 2-3 2017](https://daniellequinn.github.io/2017-12-02-mun/) Unix Shell, Python & Version Control
-* [May 27-28 2017](https://rmdickson.github.io/2017-05-27-MUN/) Unix Shell, Python & Version Control
+* Atlantic Canada AquaHacking Challenge Semi-Final event: June 15 at 4 PM AST / 3 PM EST on the [Atlantic Water Network Facebook Page] (https://www.facebook.com/atlwaternetwork/?utm_source=AquaHacking%202019&utm_campaign=6474da1ee5-EMAIL_CAMPAIGN_2020_04_29_05_37&utm_medium=email&utm_term=0_0d544a25c0-6474da1ee5-253899117)
+ 
 
-# Members
+# Honorary Members
 ## Badged Instructors
 
-* Ivo Arrey - Carpentries Instructor since 2016
-* Andrés Beita-Jiménez - Carpentries Instructor since 2019
-* Elnaz Bodaghkhani - Carpentries Instructor since 2017
-* Oihane Cereceda - Carpentries Instructor since 2018
-* Muriel Dunn - Carpentries Instructor since 2019
-* Grace Fishbein - Carpentries Instructor since 2020
-* Emilie Geissinger - Carpentries Instructor since 2018
-* Evan Kielley - Carpentries Instructor since 2018
-* Andrea Perreault - Carpentries Instructor since 2019
-* Elena Salogni - Carpentries Instructor since 2019
-* Oliver Stueker - Carpentries Instructor since 2016
-* Joany Mariño - Carpentries Instructor since 2019
-* Danielle Quinn - Carpentries Instructor and Instructor Trainer since 2017
+![Anna.jpg](/figs/Anna.jpg)
+* Anna Leenay is an environmental engineer with more than 4 years experience working as an engineering consultant on water/wastewater/stormwater conveyance, environmental remediation, and other water resources projects. She also has experience in teaching, design thinking, and  a certification in graphic design, making her a generalist in her career path. Anna is motivated by helping others while learning and growing on the way. In terms of water issues, her interest lies in the intersection of environmental and social justice issues, or environmental justice.
+
+![Kyle.png](/figs/Kyle.png)
+* Kyle Vouriot is a Business Information Technology graduate from Red River College who specializes in software and web application development. He has worked with both the Government of Canada and the Government of Manitoba in technical support and application developer roles. These positions have given Kyle a well-rounded skill-set in both interpersonal skills as well as technical skills. Kyle is passionate about self-improvement and continuous growth and joined AbbaTek with the intention of further improving his skill set and changing the world of microplastics research for the better.
+
+
 * _more to be added_
 
 <!--
@@ -70,7 +59,7 @@ have been confirmed.
 * _to be added_
 -->
 
-## Helpers
+## Advisors
 * _to be added_
 
 <!--
