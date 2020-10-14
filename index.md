@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "Carpentries Workshops@MUN"
+title: "AbbaTek Group"
 ---
-[<small>Jump to</small> Upcoming Workshops](#upcoming-workshops)
+[<small>Jump to</small> Upcoming Events](#upcoming-events)
 
 # Who We Are
 We are a team of _Carpentries_ Instructors and Helpers at Memorial University of Newfoundland (MUN) who are organizing and offering _Carpentries_ workshops at MUN.
