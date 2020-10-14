@@ -1,5 +1,6 @@
 ---
 layout: "default"
+image:assets/images/AbbaLogo.png
 title: "AbbaTek Group"
 ---
 [<small>Jump to</small> Upcoming Events](#upcoming-events)
@@ -52,7 +53,7 @@ have been confirmed.
 ![Kyle.png](/figs/Kyle.png)
 * Kyle Vouriot is a Business Information Technology graduate from Red River College who specializes in software and web application development. He has worked with both the Government of Canada and the Government of Manitoba in technical support and application developer roles. These positions have given Kyle a well-rounded skill-set in both interpersonal skills as well as technical skills. Kyle is also passionate about self-improvement and continuous growth in startups inclined to information technology.
 
-* _more to be added_
+
 
 <!--
 ### Alumni
@@ -67,7 +68,8 @@ have been confirmed.
 -->
 
 # Partners
-
+* [ACENET](https://www.ace-net.ca/) is providing cyber infrastructure for computational requirements in Atlantic Canada
+* [Compute Canada](https://computecanada.ca) is providing cyber infrastructure for high performance computing 
 * [Delta Analytics](http://www.deltanalytics.org) is providing data analytics support for data-driven social good solutions.
 * [North Forge](https://www.northforge.ca) is providing incubation, business and technology development to startups
 * [IISD](https://www.iisd.org) is providing mentorship and resources for growth and startups
