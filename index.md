@@ -40,7 +40,7 @@ have been confirmed.
 
 ## Past Events
 
-* [Atlantic Canada AquaHacking Challenge Semi-Final event: June 15 at 4 PM AST / 3 PM EST on the Atlantic Water Network Facebook Page] (https://www.facebook.com/atlwaternetwork/?utm_source=AquaHacking%202019&utm_campaign=6474da1ee5-EMAIL_CAMPAIGN_2020_04_29_05_37&utm_medium=email&utm_term=0_0d544a25c0-6474da1ee5-253899117)
+* [Atlantic Canada AquaHacking Challenge Semi-Final event: June 15 at 4 PM AST / 3 PM EST] (https://www.facebook.com/atlwaternetwork/?utm_source=AquaHacking%202019&utm_campaign=6474da1ee5-EMAIL_CAMPAIGN_2020_04_29_05_37&utm_medium=email&utm_term=0_0d544a25c0-6474da1ee5-253899117)
  
 
 # Honorary Members
