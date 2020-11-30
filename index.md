@@ -67,7 +67,7 @@ have been confirmed.
 ## Contact Us
 -->
 
-# Partners
+# Our Collaborators
 * [Memorial University](https://www.mun.ca/socialenterprise/) the CSE seeks to enhance the quality of the human experience via social enterprise and social innovation
 * [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers world wide
 * [ACENET](https://www.ace-net.ca/) is providing cyber infrastructure for computational requirements in Atlantic Canada
