@@ -16,7 +16,7 @@ We are a group of passionate and diverse set of individuals committed to achievi
 
 
 ![Ivo.jpg](/figs/Ivo.jpg)
-* Ivo is a hydrologist with experience in earth data analytics and machine learning. Projects under his belt have sought to provide an understanding of the interaction between surface controls and spatio-temporal variability of sub-surface hydrologic processes. In his work, he uses a combination of experimental, theoretical, numerical, and computational methods to address these hydrologic processes. In addition to his academic side, Ivo uses his acquired skills as a seasoned entrepreneur having participated in a number of hackathons solving problems that range from fintech to public health.
+* Ivo is a hydrologeologist with experience in earth data analytics and machine learning. Projects under his belt have sought to provide an understanding of the interaction between surface controls and spatio-temporal variability of sub-surface hydrologic processes. In his work, he uses a combination of experimental, theoretical, numerical, and computational methods to address these hydrologic processes. In addition to his academic side, Ivo uses his acquired skills as a seasoned entrepreneur having participated in a number of hackathons solving problems that range from fintech to public health.
 
 
 
