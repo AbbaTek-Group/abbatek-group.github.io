@@ -73,5 +73,4 @@ have been confirmed.
 * [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers world wide
 * [ACENET](https://www.ace-net.ca/) is providing cyber infrastructure for computational requirements in Atlantic Canada
 * [Compute Canada](https://computecanada.ca) is providing cyber infrastructure for high performance computing 
-* [North Forge](https://www.northforge.ca) is providing incubation, business and technology development to startups
 * [IISD](https://www.iisd.org) is providing mentorship and resources for growth and startups
