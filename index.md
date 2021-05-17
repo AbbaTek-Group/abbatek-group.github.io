@@ -61,7 +61,8 @@ have been confirmed.
 -->
 
 ## Advisors
-* _to be added_
+* [http://feaverslane.com/](Randal Greene)
+* [https://www.business.mun.ca/our-people/faculty-instructors/tom-cooper.php](Tom Cooper)
 
 <!--
 ## Contact Us
