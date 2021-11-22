@@ -1,6 +1,6 @@
 ---
 layout: "default"
-image: "assets/images/AbbaLogo.png"
+image: "(/figs/AbbaLogo.png)"
 title: "AbbaTek Group"
 ---
 [<small>Jump to</small> Upcoming Events](#upcoming-events)
